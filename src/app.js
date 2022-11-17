@@ -17,7 +17,14 @@ window.onload = function() {
     "powered off my pc",
     "jumped of a plane",
     "fell of the stairs",
-    "dissapeared"
+    "dissapeared",
+    "played the banjo",
+    "went to a concert",
+    "traveled through an intersestellar wormhole",
+    "waited for something to happen",
+    "was hit by a truck and ended up in a totally different place",
+    "danced funnily",
+    "met with a mesopotamian god"
   ];
   let whoArr = [
     "My mom",
